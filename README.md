@@ -7,4 +7,7 @@ blade frame boot like spring boot
 3. [ ] 支持AutoConfiguration
 4. [ ] 支持starter机制
 5. [ ] 支持随时加载jar的方式运行
-6. [ ] 支持RPC
+6. [ ] 支持RPC，支持dubbo
+7. [ ] 支持mybatis
+8. [ ] 支持redis
+9. [ ] 支持shiro
