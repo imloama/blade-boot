@@ -1,2 +1,2 @@
 rootProject.name = 'blade-boot'
-include 'core','starter-dubbo','starter-mybatis','starter-redis','starter-shiro'
+include 'core','starter-dubbo','starter-mybatis','starter-redis','starter-shiro','example'
