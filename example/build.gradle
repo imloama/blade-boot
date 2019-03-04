@@ -1,8 +1,9 @@
+apply plugin: 'application'
+
+mainClassName = "com.github.imloama.bladeboot.example.ExampleApplication"
 
 dependencies {
-	implementation('mysql:mysql-connector-java:8.0.15')
 	compileOnly('org.projectlombok:lombok:1.18.6')
-//	implementation 'com.bladejava:blade-mvc:${bladeVersion}'
-	// implementation 'io.github.biezhi:anima:0.2.6'
+	compile project(":core")
 }
 
