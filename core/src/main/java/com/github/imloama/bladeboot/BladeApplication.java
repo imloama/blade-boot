@@ -15,7 +15,7 @@ public final class BladeApplication {
     }
 
     public static void run(Class clasz, String ...args){
-        // 读取配置文件
+        // 读取配置文件，application.properties，获取部分配置信息，
 
         // 启动应用
         INSTANCE.start(clasz, args);
