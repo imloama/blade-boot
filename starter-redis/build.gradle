@@ -1,8 +1,0 @@
-
-dependencies {
-	compileOnly('org.projectlombok:lombok:1.18.6')
-//	implementation 'com.bladejava:blade-mvc:${bladeVersion}'
-	// implementation 'io.github.biezhi:anima:0.2.6'
-	implementation 'org.redisson:redisson:3.10.3'
-}
-
