@@ -1,4 +1,4 @@
-package com.github.imloama.blade.boot;
+package blade.boot;
 
 /**
  * Hello world!
